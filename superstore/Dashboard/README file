@@ -1,0 +1,54 @@
+# Sales Dashboard – Power BI Practice Project
+
+## Overview
+This project is a Sales Dashboard created in Power BI using the SuperStore Sales Dataset.  
+The dashboard helps analyze sales performance, profit trends, customer segments, and regional insights through interactive visualizations.
+Power BI practice project based on a Risham Mishra YouTube tutorial.
+
+## Objective
+The goal of this dashboard is to provide insights into:
+- Sales and profit performance
+- Regional sales trends
+- Customer and segment analysis
+- Category-wise performance
+- Interactive business reporting
+
+## Tools & Technologies Used
+- Power BI
+- Excel / CSV Dataset
+- Data Visualization
+- Business Analytics Concepts
+
+## Dataset Used
+The project uses the **SuperStore Sales Dataset** containing:
+
+- Sales Data
+- Profit Data
+- Customer Details
+- Regional Information
+- Product Categories
+- Shipping Details
+
+## Dashboard Features
+- Sales Overview
+- Profit Analysis
+- Regional Insights
+- Customer Segment Analysis
+- Interactive Filters & Slicers
+- KPI Cards and Trend Charts
+
+## Learning Outcomes
+Through this project, I learned:
+- Data cleaning and transformation
+- Creating interactive dashboards in Power BI
+- Using charts, slicers, and KPI cards
+- Building business insights visually
+- Dashboard design and reporting basics
+
+## Project Files
+- `DASHBOARD.pbix` → Power BI dashboard file
+- `SuperStore Sales DataSet.xlsx` → Excel dataset
+- `SuperStore_Sales_Dataset.csv` → CSV dataset
+
+## Reference
+Practice project inspired by the YouTube tutorial by **Risham Mishra** on creating a Sales Dashboard in Power BI.
